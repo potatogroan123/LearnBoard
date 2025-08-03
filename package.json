@@ -1,7 +1,7 @@
 {
-    "name": "my-openai-website",
+    "name": "LEARNBOARD",
     "version": "1.0.0",
-    "description": "A simple website using OpenAI API",
+    "description": "A simple website using deespeek API",
     "main": "server.js",
     "scripts": {
         "start": "node server.js"
@@ -18,3 +18,4 @@
     "author": "",
     "license": "ISC"
 }
+
